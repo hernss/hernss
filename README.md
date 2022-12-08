@@ -12,6 +12,14 @@ Altium Projects  </br>
 [WiFi Node](https://github.com/hernss/IDCI_WiFiNode) IoT project, relay controlled by WiFi </br>
 [NFC Access](https://github.com/hernss/IDCI_NFC_Access) Access control board with NFC</br>
 
+Kotlin Projects </br>
+[Trip Memories](https://github.com/hernss/DADM_TripMemories) Travel memories app </br>
+[Nearly](https://github.com/hernss/DADM_Nearly) Shop App based on location, only near shops are showed </br>
+
+Low Level C Projects  </br>
+[Bare Metal SO](https://github.com/hernss/TD3_BareMetalSO) Bare Metal SO running on bochs </br>
+[Linux Device Driver](https://github.com/hernss/TD3_LinuxDeviceDriver) MPU6050 Device driver for BeagleBone Black </br>
+
 ## Personal Projects
 
 [Google Challenge](https://github.com/hernss/GoogleChallenge)
