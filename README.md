@@ -8,33 +8,34 @@ My name is Hernan, i am an electronics engineering advanced student and this is 
 
 ## University Projects
 
-<ins>Altium Projects</ins></br>
-[WiFi Node](https://github.com/hernss/IDCI_WiFiNode) IoT project, relay controlled by WiFi </br>
-[NFC Access](https://github.com/hernss/IDCI_NFC_Access) Access control board with NFC</br>
+**Altium Projects**
+- [WiFi Node](https://github.com/hernss/IDCI_WiFiNode) IoT project, relay controlled by WiFi
+- [NFC Access](https://github.com/hernss/IDCI_NFC_Access) Access control board with NFC
 
-<ins>KiCad Projects</ins></br>
-[Power Supply](https://github.com/hernss/switching_power_supply) A variable power supply based on TPS54331 with ATX PSU input</br>
-[Sensor Interface](https://github.com/hernss/pressure_sensor_interface) A pressure sensor interface with STM32</br>
+**KiCad Projects**
+* [Power Supply](https://github.com/hernss/switching_power_supply) A variable power supply based on TPS54331 with ATX PSU input
+* [Sensor Interface](https://github.com/hernss/pressure_sensor_interface) A pressure sensor interface with STM32
 
-<ins>Kotlin Projects</ins></br>
-[Trip Memories](https://github.com/hernss/DADM_TripMemories) Travel memories app </br>
-[Nearly](https://github.com/hernss/DADM_Nearly) Shop App based on location, only near shops are showed </br>
+**Kotlin Projects**
+* [Trip Memories](https://github.com/hernss/DADM_TripMemories) Travel memories app
+* [Nearly](https://github.com/hernss/DADM_Nearly) Shop App based on location, only near shops are showed
 
-<ins>Low Level C Projects</ins></br>
-[Bare Metal SO](https://github.com/hernss/TD3_BareMetalSO) Bare Metal SO running on bochs </br>
-[Linux Device Driver](https://github.com/hernss/TD3_LinuxDeviceDriver) MPU6050 Device driver for BeagleBone Black </br>
+**Low Level C Projects**
+* [Bare Metal SO](https://github.com/hernss/TD3_BareMetalSO) Bare Metal SO running on bochs
+* [Linux Device Driver](https://github.com/hernss/TD3_LinuxDeviceDriver) MPU6050 Device driver for BeagleBone Black
 
 ## Personal Projects
 
-[Google Challenge](https://github.com/hernss/GoogleChallenge)
+* [Google Challenge](https://github.com/hernss/GoogleChallenge)
+* [Deep Learning Course](https://github.com/hernss/MachineLearningCourse)
 
 ## Blockchain
 
-[CryptoAvisos](https://github.com/hernss/CryptoAvisosV1) This is not my project but i have propoused a possible update for this project </br>
+* [CryptoAvisos](https://github.com/hernss/CryptoAvisosV1) This is not my project but i have propoused a possible update for this project
 
-[SocialSend APIRest](https://github.com/hernss/SocialSendApiRest) Api rest backend for Social Send </br>
+* [SocialSend APIRest](https://github.com/hernss/SocialSendApiRest) Api rest backend for Social Send
 
-[SocialSend DNS Seeder](https://github.com/hernss/dns_seeder) DNS Seeder adapted for Social Send blockhain </br>
+* [SocialSend DNS Seeder](https://github.com/hernss/dns_seeder) DNS Seeder adapted for Social Send blockhain
 
-[SocialSend WebUI](https://github.com/hernss/SendPi) Web UI for raspberry pi based Social Send node </br>
+* [SocialSend WebUI](https://github.com/hernss/SendPi) Web UI for raspberry pi based Social Send node
 
