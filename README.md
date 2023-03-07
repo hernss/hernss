@@ -28,6 +28,7 @@ My name is Hernan, i am an electronics engineering advanced student and this is 
 
 * [Google Challenge](https://github.com/hernss/GoogleChallenge)
 * [Deep Learning Course](https://github.com/hernss/MachineLearningCourse)
+* [Modern C++ Course](https://github.com/hernss/cpp_udemy_course)
 
 ## Blockchain
 
